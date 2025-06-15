@@ -33,7 +33,7 @@ To tackle this, methods like resampling or using class weights in model training
 
 This helped in improving recall—crucial in healthcare scenarios where false negatives (missing a stroke prediction) are more dangerous than false positives.
 
-🖥 4. User Interface for Real-world Use
+ 4. User Interface for Real-world Use
 A simple GUI built with Tkinter allows users to input values like age, hypertension status, BMI, etc., and receive an instant prediction.
 
 This interface makes the model accessible beyond data scientists and encourages community engagement or real-world integration.
